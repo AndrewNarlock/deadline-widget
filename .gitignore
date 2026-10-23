@@ -1,0 +1,12 @@
+# Secrets and local data - never commit these
+.env
+data/
+*.ics
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
