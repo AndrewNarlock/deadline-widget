@@ -1,6 +1,6 @@
 # Deadline Widget
 
-A small always-on-top desktop window with two pages:
+A small desktop window with two pages:
 
 - **Calendar:** my upcoming due dates and readings, with a short plan for today. Due dates come from my Canvas
   calendar feed, readings from the public course site.
